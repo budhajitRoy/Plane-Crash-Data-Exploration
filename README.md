@@ -9,7 +9,7 @@ This project will explore and analyze the informations for all the aircraft acci
 
 ## Technologies that will be using
 - Python
-- Libraries: pandas, numpy, matplotlib, seaborn, json, os, requests
+- Libraries: pandas, numpy, matplotlib, seaborn, json, os, requests, BeautifulSoup.
 - Jupyter Notebook
 - Web Scraping to gather data
 
